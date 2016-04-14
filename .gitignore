@@ -1,0 +1,9 @@
+.idea
+.virtualenv
+wheelhouse
+*/.cache/*
+.setenvironments
+*/__pycache__/*
+results.xml
+test_bundle.zip
+.env
